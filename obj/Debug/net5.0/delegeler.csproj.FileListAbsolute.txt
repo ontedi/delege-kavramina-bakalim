@@ -1,0 +1,16 @@
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\delegeler.exe
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\delegeler.deps.json
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\delegeler.runtimeconfig.json
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\delegeler.runtimeconfig.dev.json
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\delegeler.dll
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\ref\delegeler.dll
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\bin\Debug\net5.0\delegeler.pdb
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.csproj.AssemblyReference.cache
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.AssemblyInfoInputs.cache
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.AssemblyInfo.cs
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.csproj.CoreCompileInputs.cache
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.dll
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\ref\delegeler.dll
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.pdb
+D:\calisma-masasi\dotnetcore\ornekler\delegeler\obj\Debug\net5.0\delegeler.genruntimeconfig.cache
